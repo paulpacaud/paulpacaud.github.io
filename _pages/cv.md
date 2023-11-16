@@ -11,49 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Combined Bachelor and Master in Computer Science, CentraleSupélec Paris-Saclay University, France, Sep 2020 - Aug 2024
+* Visiting Student Researcher, Stanford University Computer Science Department, USA, Sep 2022 - Feb 2023
+* Intensive STEM preparatory class, Lycée Pasteur, France, Sep 2018 - Jul 2020
+* High School, Lycée Agora, France, Sep 2015 - Jul 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Co-founder & AI Software Engineer at TalimAI, May 2023 - Present
+  * Developing a web application to assist with job interview preparation using AI technologies.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operations Research Engineer (Intern) at Engie, September 2023 - August 2024
+  * Focused on modeling power supply & demand in Europe and implementing real-time trading models.
+
+* Cloud Computing Consultant (Intern) at PwC, March 2023 - August 2023
+  * Managed a datacenter migration project and conducted analytics to demonstrate cloud migration benefits.
+
+* Robotics Research Intern at Stanford AI Lab, September 2022 - February 2023
+  * Investigated methods to improve robot-to-human handover and physical Human-Robot interactions.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* "Identifying Human Grasp Properties During Robot-to-Human Handover" - IEEE World Haptics Conference, with co-authors Etienne Chassaing, Yilin Cai, Connor Yako, and Kenneth Salisbury
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Generative AI and Creativity, Volunteer Teacher, Stanford Splash Courses, 2022
+* Python/SQL Programming Course, Teaching Assistant, McGill x CentraleSupélec Bachelor, 2022
+* Information Systems and Programming, Teaching Assistant, CentraleSupélec MEng, 2021
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* France-Stanford Visiting Student Researcher Fellowship, 2022
+* IEEE Student Innovation Prize at CentraleSupélec, 2021
+* 3rd Prize, University Public Speaking Contest at CentraleSupélec, 2021
+
+Languages
+======
+* French: Native
+* English: C1 (Fluent, experienced)
+* Spanish: B1 (Autonomous)
+
+Computer skills
+======
+* Basic: Docker, ROS
+* Intermediate: C#, C++, HTML/CSS, Typescript, NodeJS, Angular
+* Advanced: Python, SQL, Excel
+
+Interest and Activities
+======
+* Sport: Basketball
+* Music: Piano player (graduate from the French Conservatory 1st cycle)
