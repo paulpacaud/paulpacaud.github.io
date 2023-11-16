@@ -1,0 +1,68 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\paul_\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add ruby-dev ruby-bundler
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\gurobi950\win64\bin;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\MATLAB\R2021a\bin;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\PharosSystems\Core;C:\Users\paul_\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\paul_\AppData\Local\Microsoft\WindowsApps;C:\Users\paul_\AppData\Local\Programs\EmEditor;C:\Users\paul_\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\paul_\.dotnet\tools;C:\Users\paul_\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\paul_\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\CMake\bin;C:\Users\paul_\AppData\Roaming\npm;C:\Users\paul_\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/ruby-dev: Not found
+      at params.callback [as _callback] (C:\Users\paul_\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:66145:18)
+      at self.callback (C:\Users\paul_\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140890:22)
+      at Request.emit (node:events:513:28)
+      at Request.<anonymous> (C:\Users\paul_\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141862:10)
+      at Request.emit (node:events:513:28)
+      at IncomingMessage.<anonymous> (C:\Users\paul_\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141784:12)
+      at Object.onceWrapper (node:events:627:28)
+      at IncomingMessage.emit (node:events:525:35)
+      at endReadableNT (node:internal/streams/readable:1359:12)
+      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+npm manifest: 
+  {
+    "name": "minimal-mistakes",
+    "version": "3.4.2",
+    "description": "Minimal Mistakes Jekyll theme npm build scripts",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    },
+    "keywords": [
+      "jekyll",
+      "theme",
+      "minimal"
+    ],
+    "author": "Michael Rose",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    },
+    "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+    "engines": {
+      "node": ">= 0.10.0"
+    },
+    "devDependencies": {
+      "npm-run-all": "^1.7.0",
+      "onchange": "^2.2.0",
+      "uglify-js": "^2.6.1"
+    },
+    "scripts": {
+      "uglify": "uglifyjs assets/js/vendor/jquery/jquery-1.12.4.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
+      "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
+      "build:js": "npm run uglify"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
