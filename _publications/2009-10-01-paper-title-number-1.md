@@ -3,7 +3,7 @@ title: "Identifying Human Grasp Properties During Robot-to-Human Handover"
 collection: publications
 permalink: /publication/2023-identifying-human-grasp-properties-during-robot-to-human-handover
 excerpt: 'TLDR; An efficient System Identification method during Robot-to-Human Handover for giving the robot quantitative information that it could use to decide when to safely let go of the object.'
-date: 2023
+date: 2023-08-25
 venue: 'IEEE World Haptics Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10224405'
 citation: 'Paul Pacaud, Etienne Chassaing, Yilin Cai, Connor Yako, and Kenneth Salisbury'
