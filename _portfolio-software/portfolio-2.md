@@ -5,25 +5,20 @@ collection: portfolio
 ---
 
 ## Introduction
-Over two years of work, we build a web-based Enterprise Resource Planning to help CentraleSupélec's student-led consulting firm manage their day-to-day operations. The level of efficiency, robustness and customization had never been surpassed by any other student-led consulting firm in France.
-
+During a rigorous two-year period, our team developed a web-based Enterprise Resource Planning (ERP) system for the student consulting firm at CentraleSupélec. We set new benchmarks in efficiency, robustness, and customization that remain unmatched by any other student-led consultancy in France.
 ## Features
-The application is both for front and support functions. It allows consultants to manage their missions while giving dashboards to support teams to manage the firm.
+Athena serves both client-facing and administrative functions. It equips consultants with comprehensive mission management tools and provides support teams with robust dashboards for firm oversight.
 
-Consultants can manage their missions from A to Z. They can generate legal contracts for the clients (such as confidentiality agreements and mission contracts), hire students by pushing email campaigns to the campus, follow the progress of the mission, and upload deliverables.
+Consultants can handle every aspect of their missions. This includes creating legal documents for clients, initiating recruitment campaigns via email to the student body, monitoring mission progress, and managing deliverable submissions.
 
 <img src='/images/athena_mission.PNG'>
 <img src='/images/athena_avancement.PNG'>
-
-Support teams like Finance Operations can manage the bills sent to clients, bills paid by the firm, and Payment Slips of consultants all in one place.
+The finance team has a unified system for invoicing clients, processing firm expenses, and administering consultants' payment slips.
 <img src='/images/athena_finance.PNG'>
 
-Executives managing the consulting firm have advanced data analytics dashboard highlighting Key Performance Indicators and Graphs to help them take steer the organization.
+Leadership benefits from a sophisticated analytics dashboard that illuminates key performance metrics and visualizations, aiding strategic decision-making.
 
 <img src='/images/athena_data.PNG'>
-
-<img src='/images/athena_Technical_Stack.png'>
-
 Here's a peek at the technical aspects that make Athena work so well:
 
 #### Front End
