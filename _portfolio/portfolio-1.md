@@ -25,7 +25,7 @@ The Net Exports satisfying this set of constraints are called the feasible solut
 
 { $$ N_{ex} \in R^{14} : PTDF.N_{ex} \leq RAM $$ }
 
-form a convex polyhedron in a 14-dimensional space. Visualizing a 14-dimensional object is not feasible, but we can examine its 2D facets. For example, consider the facet representing net exports between France and Belgium (FR->BE) and France and Germany (FR->DE). I've created the animated image below to showcase the evolution of this solution space in 2023. The feasible area is highlighted in blue, with each line representing a constraint. The actual solution is depicted as a green point.
+The feasible solutions, or Net Exports, satisfying to these constraints form a convex polyhedron in a 14-dimensional space.  Visualizing a 14-dimensional object is not feasible, but we can examine its 2D facets. For example, consider the facet representing net exports between France and Belgium (FR->BE) and France and Germany (FR->DE). I've created the animated image below to showcase the evolution of this solution space in 2023. The feasible area is highlighted in blue, with each line representing a constraint. The actual solution is depicted as a green point.
 <img src='/images/solutions_space.gif'>
 
 ### Forecasting the characteristics of the polyhedron over time
