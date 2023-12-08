@@ -19,6 +19,8 @@ The finance team has a unified system for invoicing clients, processing firm exp
 Leadership benefits from a sophisticated analytics dashboard that illuminates key performance metrics and visualizations, aiding strategic decision-making.
 
 <img src='/images/athena_data.PNG'>
+
+<img src='/images/athena_Technical_Stack.png'>
 Here's a peek at the technical aspects that make Athena work so well:
 
 #### Front End
