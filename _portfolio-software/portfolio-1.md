@@ -1,12 +1,12 @@
 ---
 title: "TalimAI - AI-powered Job Interview Coach"
-excerpt: "Fullstack web development of an application helping candidates prepare for their job interviews. <br/><img src='/images/talimai_chatbot.PNG'>"
+excerpt: "Fullstack web development of an application helping candidates prepare for their job interviews. <br/><br/><img src='/images/talimai_chatbot.PNG'>"
 collection: portfolio
 ---
 
 ## Access the app here: <a href="https://talimai.com/landing-page">TalimAI</a>
-
-<img src='/images/landing_page_talimai.png'>
+( Note that the app is not yet responsive, thus not adapted to mobile devices )
+<br/><img src='/images/landing_page_talimai.png'>
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Basically, we’ve made the user experience straightforward:
 
 That being said, let me explain you how it works under the hood.
 
-<img src='/images/talimAI_Technical_Stack.png'>
+<br/><img src='/images/talimAI_Technical_Stack.png'>
 
 #### Front End
 

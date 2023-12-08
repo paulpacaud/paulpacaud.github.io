@@ -1,6 +1,6 @@
 ---
 title: "Athena - Enterprise Resource Planning (ERP) of a student-led consulting firm"
-excerpt: "During my first year of master, I contributed to build the best ERP existing in France for student-led consulting firms. <br/><img src='/images/athena_data.PNG'>"
+excerpt: "During my first year of master, I contributed to build the best ERP existing in France for student-led consulting firms. <br/><br/><img src='/images/athena_data.PNG'>"
 collection: portfolio
 ---
 
@@ -11,16 +11,17 @@ Athena serves both client-facing and administrative functions. It equips consult
 
 Consultants can handle every aspect of their missions. This includes creating legal documents for clients, initiating recruitment campaigns via email to the student body, monitoring mission progress, and managing deliverable submissions.
 
-<img src='/images/athena_mission.PNG'>
-<img src='/images/athena_avancement.PNG'>
+<br/><img src='/images/athena_mission.PNG'>
+
+<br/><img src='/images/athena_avancement.PNG'>
 The finance team has a unified system for invoicing clients, processing firm expenses, and administering consultants' payment slips.
-<img src='/images/athena_finance.PNG'>
+<br/><img src='/images/athena_finance.PNG'>
 
 Leadership benefits from a sophisticated analytics dashboard that illuminates key performance metrics and visualizations, aiding strategic decision-making.
 
-<img src='/images/athena_data.PNG'>
+<br/><img src='/images/athena_data.PNG'>
 
-<img src='/images/athena_Technical_Stack.png'>
+<br/><img src='/images/athena_Technical_Stack.png'>
 Here's a peek at the technical aspects that make Athena work so well:
 
 #### Front End
