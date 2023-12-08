@@ -1,6 +1,6 @@
 ---
 title: "Characterizing the 14-dimensional solutions space of the power market optimization problem"
-excerpt: "As a quantitative researcher at Engie, I've built a ML model forecasting the feasible sets of Power Net Exportations in Europe satisfying the European Power Grid constraints. <br/><img src='/images/01_03_2023_12.png'>"
+excerpt: "As a quantitative researcher at Engie, I've built a ML model forecasting the feasible sets of Power Net Exportations in Europe satisfying the European Power Grid constraints. <br/><img src='/images/01_04_2023_21.png'>"
 collection: portfolio
 ---
 
@@ -44,4 +44,4 @@ There are more than 2000 constraints in the power grid, but Power Operators use 
 The size of the matrices "PTDF" is therefore 130*14 i.e each matrix contains 1820 cells to forecast.
 
 ### Further details
-Due to confidentiality, further details on the code and methodology cannot be disclosed at this time. All what is said in this page come from public data and don't describe the methods used in my company.
+Due to confidentiality, further details on the code and methodology cannot be disclosed at this time. All what is said in this page comes from public data and doesn't describe the methods used in my company.
