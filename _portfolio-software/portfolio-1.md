@@ -1,26 +1,21 @@
 ---
-title: "Talim AI: an AI-powered job interview coach"
+title: "TalimAI - AI-powered Job Interview Coach"
 excerpt: "Fullstack web development of an application helping candidates prepare for their job interviews. <br/><img src='/images/talimai_chatbot.PNG'>"
 collection: portfolio
 ---
 
-## The app
-Access the app here: <a href="https://talimai.com/landing-page">TalimAI</a>
+## Access the app here: <a href="https://talimai.com/landing-page">TalimAI</a>
 
 <img src='/images/landing_page_talimai.png'>
 
 ## Introduction
 
-We're super excited to unveil <a href="https://talimai.com/landing-page">TalimAI</a>, a novel approach to job interview preparation using generative AI. It’s not just a collection of interview questions as you may have already seen; It's a whole lot more – it’s a personalized coach that's designed to help candidates really really stand out.
+I'm super excited to unveil <a href="https://talimai.com/landing-page">TalimAI</a>, a novel approach to job interview preparation using generative AI. It’s not just a collection of interview questions as you may have already seen; It's a whole lot more – it’s a personalized coach that's designed to help candidates really really stand out.
 
 Over the past year, we've engaged with numerous job seekers and they all share the same problem: it’s more and more difficult to stand out. Candidates usually prepare alone, with no feedback, and they are super stressed by getting an unexpected question.
-And for the recruiters, they want to make the hiring process as fast as possible, and they also want to eliminate biases in the process.
 That’s where TalimAI comes into the picture. Our coach leverages AI to make job seekers save time, save stress, and at the end, get their dream job.
-For recruiters, we just give them what they need: it’s about making their job easier, getting them better results, and improving the data they work with.
 
-## Team
 The project is led by <a href="https://www.linkedin.com/in/antoinecarriere/">Antoine Carriere</a>, Sales Executive at Google, ex-BCG.
-The AI model and software are built by Firmin Exertier and I. The business strategy is led by Alex Nativelle.
 
 ## The app
 
@@ -30,8 +25,6 @@ Basically, we’ve made the user experience straightforward:
 - At the end, you get a comprehensive feedback, so that you improve by each interview.
 
 That being said, let me explain you how it works under the hood.
-
-### Technical stack
 
 <img src='/images/talimAI_Technical_Stack.png'>
 
