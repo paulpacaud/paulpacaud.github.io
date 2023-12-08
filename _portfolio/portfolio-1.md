@@ -1,6 +1,6 @@
 ---
 title: "Characterizing the 14-dimensional solutions space of the power market optimization problem"
-excerpt: "As a quantitative researcher at Engie, I've built a ML model forecasting the feasible sets of Power Net Exportations in Europe satisfying the European Power Grid constraints. <br/><img src='/images/solutions_space.gif'>"
+excerpt: "As a quantitative researcher at Engie, I've built a ML model forecasting the feasible sets of Power Net Exportations in Europe satisfying the European Power Grid constraints. <br/><img src='/images/01_03_2023_12.png'>"
 collection: portfolio
 ---
 
