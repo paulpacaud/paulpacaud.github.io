@@ -39,6 +39,10 @@ The Back-end uses a NodeJS server, built using the framework Express.
 We chose a cloud-hosted, NoSQL database built with Google Firestore.
 Firebase also powers the authentication and hosting parts.
 
+#### Continuous Integration and Deployment
+
+Our development cycle is streamlined with GitHub CI/CD pipelines, ensuring that code updates are automatically and reliably deployed to production with minimal downtime. Every Pull Request is peer-reviewed.
+
 #### AI models
 
 ##### Large Language Model powering the chatbot

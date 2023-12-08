@@ -32,12 +32,11 @@ The feasible solutions, or Net Exports, satisfying to these constraints form a c
 
 The shape of this solution space changes over time, influenced by varying weather conditions which affect both power supply (like wind turbines, dams, solar panels) and demand (such as heating and industrial needs). I developed a Python-based ML pipeline to predict these changes. The project encompassed:
 
-1) Data acquisition from multiple sources via API calls.
-2) Data preprocessing and cleaning.
-3) Feature engineering and selection.
-4) Model selection, training, and evaluation.
-5) Deployment in a production environment.
-6) Due to confidentiality, further details on the code and methodology cannot be disclosed at this time.
+**1)** Data acquisition from multiple sources via API calls. <br>
+**2)** Data preprocessing and cleaning. <br>
+**3)** Feature engineering and selection. <br>
+**4)** Model selection, training, and evaluation. <br>
+**5)** Deployment in a production environment. <br>
 
 ### Order of magnitude
 
@@ -45,4 +44,4 @@ There are more than 2000 constraints in the power grid, but Power Operators use 
 The size of the matrices "PTDF" is therefore 130*14 i.e each matrix contains 1820 cells to forecast.
 
 ### Further details
-Due to confidentiality, further details on the code and methodology cannot be disclosed at this time.
+Due to confidentiality, further details on the code and methodology cannot be disclosed at this time. All what is said in this page come from public data and don't describe the methods used in my company.
