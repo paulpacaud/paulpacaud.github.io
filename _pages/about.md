@@ -18,6 +18,6 @@ At <a href="https://gems.engie.com/">Engie Trading</a>, I helped to approximate 
 
 At <a href="https://www.di.ens.fr/willow/">Inria and École Normale Supérieure Paris</a>, I’m super excited to be at the cutting edge of Robotics/3D/Language, focusing on enabling AI to generalize to novel scenarios. I am convinced that this is the path forward for intelligent machines.
 
-Balancing these two worlds (applied science and theory) has taught me the difference between creating a research prototype and deploying real-world solutions. Whether it’s crafting a research proof of concept or delivering a product, I love building useful things that tackle hard challenges.
+Balancing applied science and theory has taught me the difference between creating a research prototype and deploying real-world solutions. In a nutshell, the key takeaway is: I love building useful things that tackle hard challenges.
 
 I'm looking for research internships in 2025, so if you have any opportunities, I’d love to hear about them. 
