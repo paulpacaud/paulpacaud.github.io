@@ -7,57 +7,73 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Combined Bachelor and Master in Computer Science, CentraleSupélec Paris-Saclay University, France, Sep 2020 - Aug 2024
-* Visiting Student Researcher, Stanford University Computer Science Department, USA, Sep 2022 - Feb 2023
-* Intensive STEM preparatory class, Lycée Pasteur, France, Sep 2018 - Jul 2020
+- **PhD Program**, École Normale Supérieure Paris, Inria, Oct 2024 - Sep 2027  
+  *Topic:* Learning Robotic Manipulation At Scale  
+  *Supervisors:* Cordelia Schmid (Google/Inria), Shizhe Chen (Inria)  
+  Focused on 3D-scene-language to action models for robotic manipulation, with a goal to enhance generalization in novel scenarios.  
 
-Work experience
-======
-* Co-founder & AI Software Engineer at <a href="https://talimai.com/landing-page">TalimAI</a>, May 2023 - Present
-  * Developing a web application to assist with job interview preparation using AI technologies.
+- **Combined Bachelor and Master in Computer Science**, CentraleSupélec, Paris-Saclay University, France, Sep 2020 - Aug 2024  
+  Coursework: Machine Learning, Robotics, Algorithmics, Cloud Computing, Web Development.  
 
-* Operations Research Engineer (Intern) at <a href="https://www.engie.com/en">Engie</a>, September 2023 - August 2024
-  * Focused on modeling power supply & demand in Europe and implementing real-time trading models.
+- **Visiting Student Researcher**, Stanford University, Computer Science Department, USA, Sep 2022 - Feb 2023  
+  Participated in a fully funded exchange program through the France-Stanford Center for Interdisciplinary Studies.
 
-* Cloud Computing Consultant (Intern) at <a href="https://www.pwc.com/gx/en/services/consulting/cloud-transformation.html">PwC</a>, March 2023 - August 2023
-  * Managed a datacenter migration project and conducted analytics to demonstrate cloud migration benefits.
+- **Intensive STEM Preparatory Class**, Lycée Pasteur, France, Sep 2018 - Jul 2020  
+  Competitive entrance preparation for French engineering schools.
 
-* Research Intern at the <a href="https://ai.stanford.edu/">Stanford AI Lab</a>, September 2022 - February 2023
-  * Investigated methods to improve robot-to-human handover and physical Human-Robot interactions.
+## Work Experience
 
-Publications
-======
-* <a href="https://ieeexplore.ieee.org/abstract/document/10224405">"Identifying Human Grasp Properties During Robot-to-Human Handover"</a> - IEEE World Haptics Conference, with co-authors Etienne Chassaing, Yilin Cai, Connor Yako, and Kenneth Salisbury
+- **Co-Founder & CTO**, Brio, May 2023 - Dec 2024  
+  Developed AI systems for hiring processes, including Vision, Language, Speech, and RAG models, alongside web development (Frontend, Backend, DevOps, Cloud) and user analytics.  
+  [Learn more](https://www.brio-app.com/).
 
-Teaching
-======
-* Generative AI and Creativity, Volunteer Teacher, Stanford Splash Courses, 2022
-* Python/SQL Programming Course, Teaching Assistant, McGill x CentraleSupélec Bachelor, 2022
-* Information Systems and Programming, Teaching Assistant, CentraleSupélec MEng, 2021
+- **Quantitative Researcher - Trader Assistant**, Engie, Sep 2023 - Aug 2024  
+  Quantitative modeling of Power Market Fundamentals, optimization problem modeling, machine learning, and dashboard development.
 
-Awards
-======
-* <a href="https://francestanford.stanford.edu/sites/francestanford/files/media/file/2023_france-stanford_newsletter_updated.pdf">France-Stanford Visiting Student Researcher Fellowship</a>, 2022
-* IEEE Student Innovation Prize at CentraleSupélec, 2021
-* 3rd Prize, University Public Speaking Contest at CentraleSupélec, 2021
+- **Cloud Computing Consultant (Intern)**, PwC, Mar 2023 - Aug 2023  
+  Conducted data analytics using AWS, PowerBI, Excel, and SQL to highlight cloud migration benefits and managed datacenter migration projects.
 
-Languages
-======
-* French: Native
-* English: C1 (Fluent, experienced)
-* Spanish: B1 (Autonomous)
+- **Robotics Research Intern**, Stanford AI Lab, Sep 2022 - Feb 2023  
+  Developed methods for online System Identification of Human grasp in Human-Robot Interaction. Programmed robot control scripts in C++ and analyzed experimental results in Python.
 
-Computer skills
-======
-* Basic: Docker, ROS
-* Intermediate: C#, C++, HTML/CSS, Typescript, NodeJS, Angular
-* Advanced: Python, SQL, Excel
+## Publications
 
-Interest and Activities
-======
-* Sport: Basketball
-* Music: Piano player (graduate from the French Conservatory 1st cycle)
+- **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference (2023)  
+  Co-authors: Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury  
+  [Read more](https://ieeexplore.ieee.org/abstract/document/10224405)
+
+- **"Grounded Vision Language Planning for Robotic Manipulation"** (2024, under review)  
+  Co-authors: Shizhe Chen, Ricardo Garcia Pinel, Cordelia Schmid
+
+## Teaching
+
+- **Generative AI and Creativity**, Volunteer Teacher, Stanford Splash Courses, 2022  
+- **Python/SQL Programming Course**, Teaching Assistant, McGill x CentraleSupélec Bachelor, 2022  
+- **Information Systems and Programming**, Teaching Assistant, CentraleSupélec MEng, 2021  
+
+## Awards
+
+- **France-Stanford Visiting Student Researcher Fellowship**, 2022  
+- **IEEE Student Innovation Prize**, CentraleSupélec, 2021  
+- **3rd Prize**, University Public Speaking Contest, CentraleSupélec, 2021  
+
+## Languages
+
+- **French:** Native  
+- **English:** C1 (Fluent)  
+- **Spanish:** B1 (Autonomous)  
+
+## Computer Skills
+
+- **Basic:** Docker, ROS  
+- **Intermediate:** C#, C++, HTML/CSS, TypeScript, NodeJS, Angular  
+- **Advanced:** Python, SQL, Excel  
+
+## Interests and Activities
+
+- **Sports:** Gym, Jogging, Squash (5x/week)  
+- **Music:** Piano player, graduate of French Conservatory (1st cycle)  
+
+[LinkedIn](https://linkedin.com/in/paul-pacaud) | [Personal Website](https://paulpacaud.com)

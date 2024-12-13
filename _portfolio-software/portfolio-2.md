@@ -5,9 +5,10 @@ collection: portfolio
 ---
 
 ## Introduction
-During a rigorous two-year period, our team developed a web-based Enterprise Resource Planning (ERP) system for the student consulting firm at CentraleSupélec. We set new benchmarks in efficiency, robustness, and customization that remain unmatched by any other student-led consultancy in France.
+I was involved in the development of a web-based Enterprise Resource Planning (ERP) system for the student consulting firm at CentraleSupélec. We set new benchmarks in efficiency, robustness, and customization that remain unmatched by any other student-led consultancy in France.
+
 ## Features
-Athena serves both client-facing and administrative functions. It equips consultants with comprehensive mission management tools and provides support teams with robust dashboards for firm oversight.
+Athena serves both client-facing and administrative functions. It equips consultants with mission management tools and provides support teams with dashboards.
 
 Consultants can handle every aspect of their missions. This includes creating legal documents for clients, initiating recruitment campaigns via email to the student body, monitoring mission progress, and managing deliverable submissions.
 
@@ -26,24 +27,16 @@ Here's a peek at the technical aspects that make Athena work so well:
 
 #### Front End
 
-The front end of Athena is crafted using Angular, employing a mix of TypeScript, HTML, and CSS to create a responsive and intuitive interface. For UI/UX design, our team utilizes Figma to ensure a visually appealing and user-friendly design.
+The front end of Athena is crafted using Angular, employing a mix of TypeScript, HTML, and CSS to create a responsive and intuitive interface. For UI/UX design, our team used Figma for user-friendly design.
 
 #### Back End
 
-For the back end, Athena operates on a Node.js server framework, specifically Express.js. This setup allows for a robust and scalable application infrastructure.
-
-Data management is handled by a SQL relational database.
+For the back end, Athena operates on a Node.js server framework, with Express.js. Data management is handled by a SQL relational database.
 
 #### Continuous Integration and Deployment
 
-Our development cycle is streamlined with GitHub CI/CD pipelines, ensuring that code updates are automatically and reliably deployed to production with minimal downtime. Every Pull Request is peer-reviewed.
+We relied on GitHub CI/CD pipelines. Every Pull Request is peer-reviewed.
 
 #### On-Premise Infrastructure
 
-For on-premise solutions, Athena relies on Synology's robust and versatile storage solutions, ensuring data integrity and security. This Network Attached Storage (NAS) is kept on-premise and stores our backups.
-
-#### Cloud Services
-
-Athena leverages cloud services like Power BI to handle analytics and data visualization, providing insightful metrics and driving data-driven decisions.
-
-Hosting is efficiently managed through OVH cloud.
+For on-premise solutions, Athena relies on Synology's storage solutions. We chose Synology for the sake of data integrity and security. This Network Attached Storage (NAS) is kept on-premise and stores our backups.

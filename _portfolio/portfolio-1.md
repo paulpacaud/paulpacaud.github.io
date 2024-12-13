@@ -4,6 +4,8 @@ excerpt: "As a quantitative researcher at Engie, I've built a ML model forecasti
 collection: portfolio
 ---
 
+I have worked for one year in the quantitative trading team of Engie, on various topics related to Power and Gas Market. Even tough I can't disclose the methods used in my company, I can still give you an overview of the kind of optimization problems I've been working on.
+
 ### Introduction
 Every day in the European power market, electricity prices are set for the next day based on forecasted supply and demand. The intersection of these two curves determines the market-clearing price.
 Every day, Power Operators have to plan which power plants to turn on the next day to meet the forecasted demand. To decide, they run optimization algorithms to minimize production costs while adhering to both demand requirements and power grid constraints.
@@ -28,20 +30,6 @@ The Net Exports satisfying this set of constraints are called the feasible solut
 The feasible solutions, or Net Exports, satisfying to these constraints form a convex polyhedron in a 14-dimensional space.  Visualizing a 14-dimensional object is not feasible, but we can examine its 2D facets. For example, consider the facet representing net exports between France and Belgium (FR->BE) and France and Germany (FR->DE). I've created the animated image below to showcase the evolution of this solution space in 2023. The feasible area is highlighted in blue, with each line representing a constraint. The actual solution is depicted as a green point.
 <br/><img src='/images/solutions_space.gif'>
 
-### Forecasting the characteristics of the polyhedron over time
+### My work
 
-The shape of this solution space changes over time, influenced by varying weather conditions which affect both power supply (like wind turbines, dams, solar panels) and demand (such as heating and industrial needs). I developed a Python-based ML pipeline to predict these changes. The project encompassed:
-
-**1)** Data acquisition from multiple sources via API calls. <br>
-**2)** Data preprocessing and cleaning. <br>
-**3)** Feature engineering and selection. <br>
-**4)** Model selection, training, and evaluation. <br>
-**5)** Deployment in a production environment. <br>
-
-### Order of magnitude
-
-There are more than 2000 constraints in the power grid, but Power Operators use a pre-solver to narrow the problem down to about 130 active constraints actually shaping the polyhedron.
-The size of the matrices "PTDF" is therefore 130*14 i.e each matrix contains 1820 cells to forecast.
-
-### Further details
-Due to confidentiality, further details on the code and methodology cannot be disclosed at this time. All what is said in this page comes from public data and doesn't describe the methods used in my company.
+I worked on modeling this very hard problem that is not solved in the literature.
