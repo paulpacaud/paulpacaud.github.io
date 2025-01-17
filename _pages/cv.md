@@ -27,7 +27,7 @@ redirect_from:
 
 - **Co-Founder & CTO**, Brio, May 2023 - Dec 2024  
   Developed AI systems for hiring processes, including Vision, Language, Speech, and RAG models, alongside web development (Frontend, Backend, DevOps, Cloud) and user analytics.  
-  [Learn more](https://www.brio-app.com/).
+  [Learn more](https://brio.ink/).
 
 - **Quantitative Researcher - Trader Assistant**, Engie, Sep 2023 - Aug 2024  
   Quantitative modeling of Power Market Fundamentals, optimization problem modeling, machine learning, and dashboard development.

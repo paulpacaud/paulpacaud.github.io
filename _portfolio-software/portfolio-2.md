@@ -10,7 +10,7 @@ collection: portfolio
 ## Introduction
 
 Brio is an interview prep tool to help students prepare for their job interviews. It combines Vision, Language and Audio models to provide a realistic interview simulation.
-Learn more at [Brio](https://brio-app.com/)
+Learn more at [Brio](https://brio.ink/)
 
 ## My role
 
