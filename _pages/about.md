@@ -12,7 +12,7 @@ Hi, I’m Paul! I’m a PhD student passionate about blending Computer Vision, N
 
 I’ve had the rare opportunity to work at the crossroads of applied science (startup @ Brio, quant trading @ Engie) and theoretical research (PhD studies @ Inria). Let me give you some key takeaways about my experiences:
 
-At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed AI-driven HR tools, ranging from interview prep for students to HR search engines for recruiters. Our interview prep platform was adopted by over twenty top universities in France and used by more than 4,000 users. At 24 yo, I was proud to have bootstrapped a startup that helped 5k students and made over €60k in ARR.
+At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed AI-driven HR tools, ranging from interview prep for students to HR search engines for recruiters. Our interview prep platform was adopted by over twenty top universities in France and used by more than 5,000 students. I am glad to have bootstrapped such a project that helped so many students and made over €60k in ARR.
 
 At <a href="https://gems.engie.com/">Engie Trading</a>, I helped to approximate very hard optimization problems on the Power Market, and I also deployed applied ML models on the Gas Market. It was a lot of fun to actually apply ML to real-world scenarios.
 
@@ -20,4 +20,4 @@ At <a href="https://www.di.ens.fr/willow/">Inria and École Normale Supérieure 
 
 Balancing applied science and theory has taught me the difference between creating a research prototype and deploying real-world solutions. In a nutshell, the key takeaway is: I love building useful things that tackle hard challenges.
 
-I'm looking for research internships in 2025, so if you have any opportunities, I’d love to hear about them. 
+I'm looking for research internships in 2025/2026, so if you have any opportunities, I’d love to hear about them. 
