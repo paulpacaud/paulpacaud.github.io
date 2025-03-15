@@ -25,7 +25,7 @@ redirect_from:
 
 ## Work Experience
 
-- **Co-Founder & CTO**, Brio, May 2023 - Dec 2024  
+- **Co-Founder & CTO**, Brio, May 2023 - Sep 2024  
   Developed AI systems for hiring processes, including Vision, Language, Speech, and RAG models, alongside web development (Frontend, Backend, DevOps, Cloud) and user analytics.  
   [Learn more](https://brio.ink/).
 
@@ -43,9 +43,6 @@ redirect_from:
 - **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference (2023)  
   Co-authors: Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury  
   [Read more](https://ieeexplore.ieee.org/abstract/document/10224405)
-
-- **"Grounded Vision Language Planning for Robotic Manipulation"** (2024, under review)  
-  Co-authors: Shizhe Chen, Ricardo Garcia Pinel, Cordelia Schmid
 
 ## Teaching
 
