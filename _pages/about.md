@@ -12,7 +12,7 @@ Hi, I’m Paul! I’m a PhD student passionate about blending Computer Vision, N
 
 I’ve had the rare opportunity to work at the crossroads of applied science in industry (startup @ Brio, quant trading @ Engie) and research (PhD studies @ Inria). Let me give you some key takeaways about my experiences:
 
-At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed AI-driven HR tools, ranging from interview prep for students to HR search engines for recruiters. Our interview prep platform was adopted by over fifteen top universities in France and used by more than 4,000 students. Brio is now backed by Techstars San Francisco. I am glad to have bootstrapped such a project that helped so many students.
+At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed AI-driven HR tools, ranging from interview prep for students to HR search engines for recruiters. Our interview prep platform was adopted by over ten top universities in France and used by more than 4,000 students. Brio is now backed by Techstars San Francisco. I am glad to have bootstrapped such a project that helped so many students.
 
 At <a href="https://gems.engie.com/">Engie Trading</a>, I helped to approximate hard constrained optimization problems on the Power Market, and I also deployed applied ML models on the Gas Market. It was a lot of fun to apply ML to the energy sector.
 
