@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Paul! I’m a PhD student working at the intersection of Computer Vision, NLP, and Robotics. My recent work focuses on Multimodal Reasoning, Synthetic Data Generation, and Vision Language Action Models. I graduated from <a href="https://www.centralesupelec.fr/fr">CentraleSupélec</a>, and did robotics research at <a href="https://ai.stanford.edu/">Stanford</a>. My long-term aspiration aims to push the boundaries of AI’s ability to perceive, understand, and act in the physical world.
+Hi, I’m Paul! I’m a PhD student at <a href="https://www.di.ens.fr/willow/">INRIA Paris, ENS PSL</a> working at the intersection of Computer Vision, NLP, and Robotics. My recent work focuses on Multimodal Reasoning, Synthetic Data Generation, and Vision Language Action Models. I graduated from <a href="https://www.centralesupelec.fr/en">CentraleSupélec</a>, and did robotics research at <a href="https://ai.stanford.edu/">Stanford</a>. My long-term aspiration aims to push the boundaries of AI’s ability to perceive, understand, and act in the physical world.
 
 I’ve worked in very diverse environments ranging from applied science in industry (quant trading @ Engie, cloud consulting @ PwC), product development in startup (startup @ Brio) and academic research (PhD studies @ Inria). Here are a few takeaways:
 
