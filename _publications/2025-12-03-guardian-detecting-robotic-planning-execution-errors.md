@@ -5,7 +5,7 @@ permalink: /publication/2025-guardian-detecting-robotic-planning-execution-error
 excerpt: 'TLDR; Guardian introduces an automatic robot failure synthesis approach that generates diverse planning and execution failures with fine-grained reasoning traces. We train a VLM that achieves state-of-the-art performance on failure detection benchmarks and effectively improves task success rates in both simulation and real robots.'
 date: 2025-12-03
 venue: 'CoRL 2025 Workshop Robot Data'
-paperurl: 'https://arxiv.org/abs/2512.01946v1'
+paperurl: 'https://arxiv.org/abs/2512.01946'
 citation: 'Paul Pacaud, Ricardo Garcia, Shizhe Chen, and Cordelia Schmid'
 header:
   teaser: gteaser.png
