@@ -40,8 +40,16 @@ redirect_from:
 
 ## Publications
 
-- **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference (2023)  
-  Co-authors: Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury  
+- **"Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models"**, CoRL 2025 Workshop Robot Data (2025)
+  Co-authors: Ricardo Garcia, Shizhe Chen, Cordelia Schmid
+  [Read more](https://arxiv.org/abs/2512.01946)
+
+- **"Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation"**, CoRL 2025 LEAP Workshop (2025)
+  Co-authors: Shizhe Chen, Ricardo Garcia, Cordelia Schmid
+  [Read more](https://arxiv.org/abs/2506.11261)
+
+- **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference (2023)
+  Co-authors: Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury
   [Read more](https://ieeexplore.ieee.org/abstract/document/10224405)
 
 ## Teaching
