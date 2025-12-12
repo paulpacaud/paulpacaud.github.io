@@ -12,7 +12,7 @@ I am a PhD student at <a href="https://www.di.ens.fr/willow/">INRIA Paris, ENS P
 
 I’ve worked in very diverse environments ranging from applied science in industry (quant trading @ Engie, cloud consulting @ PwC), product development in startup (startup @ Brio) and academic research (PhD studies @ Inria). Here are a few takeaways:
 
-At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed an AI-powered interview coaching platform for universities. Brio helps students get an interview (CV improvement tool), and then helps them prep for this interview (conversation simulation). Brio is now helping +15,000 students across +20 paying partner universities, and generates over +$100K ARR.
+At <a href="https://brio.ink/">Brio</a>, the startup I co-founded, I built and deployed an AI-powered interview coaching platform for universities. Brio helps students get an interview (CV analysis, Linkedin analysis, Cold reach automation), and then helps you prep for this interview (interview simulation). Brio is now helping +15,000 students across +20 paying partner universities (among them HEC, Science Po, EDHEC, CentraleSupélec...).
 
 At <a href="https://gems.engie.com/">Engie Trading</a>, I worked within the Power & Gas Trading desk. I helped to approximate hard constrained optimization problems on the Power Market, and deployed applied ML models on the Gas Market.
 
