@@ -1,6 +1,6 @@
 ---
 title: "Brio - AI-powered Job Interview Prep"
-excerpt: "Co-founder of Brio, an AI-powered interview coaching platform for universities. <br/><br/><img src=’/images/brio-logo.png’>"
+excerpt: "Co-founder of Brio, an AI-powered interview coaching platform for universities. <br/><br/><img src='/images/brio-logo.png'>"
 collection: portfolio
 ---
 
