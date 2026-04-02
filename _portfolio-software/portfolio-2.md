@@ -4,7 +4,9 @@ excerpt: "Co-founder of Brio, an AI-powered interview coaching platform for univ
 collection: portfolio
 ---
 
+<div>
 <img src=’/images/brio-home-page.png’>
+</div>
 
 Co-founder of Brio, an AI-powered interview coaching platform for universities. Brio helps students secure interviews through CV analysis, LinkedIn analysis, and automated outreach, and then prepares them with interview simulations.
 
