@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/2025-gondola-grounded-vision-language-planning
 excerpt: 'TLDR; Gondola introduces a grounded vision-language planning model that uses multi-view images to generate precise action plans with segmentation masks for generalizable robotic manipulation, achieving state-of-the-art performance on the GemBench benchmark.'
 date: 2025-06-12
-venue: 'IROS 2026'
+venue: 'IROS'
+publication_year: 2026
 paperurl: 'https://arxiv.org/abs/2506.11261'
 citation: 'Shizhe Chen, Ricardo Garcia, <b>Paul Pacaud</b>, and Cordelia Schmid'
 ---
