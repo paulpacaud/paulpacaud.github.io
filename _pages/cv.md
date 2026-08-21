@@ -40,16 +40,20 @@ redirect_from:
 
 ## Publications
 
-- **"Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models"**, CoRL 2025 Workshop Robot Data (2025)
-  Co-authors: Ricardo Garcia, Shizhe Chen, Cordelia Schmid
+- **"PointACT: Vision-Language-Action Models with Multi-Scale Point-Action Interaction"**, RSS 2026
+  Authors: Shizhe Chen, **Paul Pacaud**, Cordelia Schmid
+  [Read more](https://arxiv.org/abs/2605.21414)
+
+- **"Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models"**, WACV 2027
+  Authors: **Paul Pacaud**, Ricardo Garcia, Shizhe Chen, Cordelia Schmid
   [Read more](https://arxiv.org/abs/2512.01946)
 
-- **"Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation"**, CoRL 2025 LEAP Workshop (2025)
-  Co-authors: Shizhe Chen, Ricardo Garcia, Cordelia Schmid
+- **"Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation"**, IROS 2026
+  Authors: Shizhe Chen, Ricardo Garcia, **Paul Pacaud**, Cordelia Schmid
   [Read more](https://arxiv.org/abs/2506.11261)
 
-- **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference (2023)
-  Co-authors: Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury
+- **"Identifying Human Grasp Properties During Robot-to-Human Handover"**, IEEE World Haptics Conference 2023
+  Authors: **Paul Pacaud**, Etienne Chassaing, Yilin Cai, Connor Yako, Kenneth Salisbury
   [Read more](https://ieeexplore.ieee.org/abstract/document/10224405)
 
 ## Teaching
